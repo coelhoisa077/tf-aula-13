@@ -1,8 +1,8 @@
 # TF 13 · Arquitetura de Software
 
-Nome: (seu nome completo)
-RA: (seu RA)
-GitHub: (link do seu perfil, ex.: https://github.com/maria-silva)
+Nome: (Isabela Maciel Coelho)
+RA: (6326167)
+GitHub: (link do seu perfil, ex.: https://github.com/coelhoisa077)
 
 > Responda cada questão em texto corrido, de 5 a 10 linhas, com as suas palavras e
 > fundamentando o que afirmar. Não copie o slide nem o briefing. Apague as linhas entre
@@ -17,7 +17,7 @@ software. Por que as duas precisam andar juntas em um projeto?
 
 **Resposta:**
 
-(escreva aqui)
+(Arquitetura de software é a estrutura de planejamento de um sistema. A arquitetura define o sistema e a engenharia aplica metodos para desenvolver e testar esse sistema. Justamente uma depende da outra para que tal projeto funcione corretamente.)
 
 ---
 
@@ -29,7 +29,7 @@ arquitetura passa a ser estudada.
 
 **Resposta:**
 
-(escreva aqui)
+(Pelo fato da engenharia ser mais ampla,e atraves dela que aprenderemos a desenvolver os sistemas na qual envolve arquitetura e na tomada de decisões.)
 
 ---
 
@@ -41,7 +41,7 @@ difícil de reverter, justificando a diferença.
 
 **Resposta:**
 
-(escreva aqui)
+(São dificies de mudar porque afetam toda a estrutura de um sistema. Facil seria,por exemplo mudar algo ligado ao front-end, dificil seria fazer a mudança de um banco de dados de um sistema q ja esta em funcionamento no mercado. Tudo gera tempo e um custo.)
 
 ---
 
@@ -53,7 +53,7 @@ conhecimento entre os profissionais".
 
 **Resposta:**
 
-(escreva aqui)
+(Com o avanço da IA os profissionais da area de tecnologia passarão a serem mais cobrados, inclusive nas tomadas de decisões e nas escolhas de codigos sabendo analisar e identicar os erros. Acredito que a IA não ira nivelar o conhecimento humano, ate porque ela ajuda, mas não é 100% perfeita, e não substitui o conhecimento humano.)
 
 ---
 
@@ -65,7 +65,10 @@ escrita de uma especificação (spec) são tão importantes para quem trabalha c
 
 **Resposta:**
 
-(escreva aqui)
+(O tech lead é responsavel pela qualidade do sistema, já o PO define as prioridades do sistema e o objetivo.
+Esse conflito pode acontecer quando o PO quer realizar uma entrega rapidamente, enquanto o TECH prioriza mais as questões tecnicas e qualidade do sistema.
+
+O conhecimento e dominio e a escrita são importantes porque ajudam a entender o cliente e o que o mesmo realmente precisa e atraves da IA gerando soluções mais corretas.)
 
 ---
 
@@ -77,4 +80,8 @@ decisões de arquitetura. Escolha uma abordagem do repertório de arquitetura vi
 
 **Resposta:**
 
-(escreva aqui)
+(MVP é a versão inicial de um sistema com as funções essenciais. Estimativa de prazo é o tempo previsto para desenvolver o projeto. Escalabilidade é a capacidade de o sistema crescer e suportar mais usuários.
+
+Esses fatores influenciam a arquitetura, pois ajuda a definir a estrutura e as tecnologias do sistema.
+
+Eu escolheria DDD para desenvolver um sistema de vendas, pois permite entender as regras do negócio e as necessidades do cliente)
